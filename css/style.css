@@ -1,0 +1,34 @@
+.panda-bg-info {
+  background-color: #feeae9;
+}
+.panda-bg-h1 {
+  color: #ff136f;
+}
+.panda-bg-button {
+  /* color: #ffa500; */
+  background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
+}
+/* --------------------
+Categories Styles 
+--------------------------*/
+.panda-categories img {
+  /* height: 120px; */
+  width: 100px;
+}
+.panda-watch {
+  background-image: linear-gradient(to bottom, #ffa500 0%, #ffb429 100%);
+}
+
+.panda-bag {
+  background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
+}
+.panda-shoes {
+  background-image: linear-gradient(to bottom, #4277fe 0%, #3f07f8 100%);
+}
+/*-------------------
+ Subscribe Styles 
+ --------------------*/
+.panda-Subscribe {
+  background-color: #fff2f1;
+  height: 455px;
+}
